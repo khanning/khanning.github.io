@@ -1,0 +1,21 @@
+{
+	"extensionName": "ScratcherControl",
+	"extensionPort": 50007,
+	"blockSpecs": [
+		["r", "Voice Command", "voice-command"],
+		["r", "Accelerometer X", "accelerometer-x"],
+		["r", "Accelerometer Y", "accelerometer-y"],
+		["r", "Accelerometer Z", "accelerometer-z"],
+		["r", "Brightness", "light-level"],
+	        ["b", "Start Button Pressed?", "start-button-pressed"],
+		["b", "Select Button Pressed?", "select-button-pressed"],
+		["b", "Up Button Pressed?", "button-up-pressed"],
+                ["b", "Down Button Pressed?", "button-down-pressed"],
+                ["b", "Left Button Pressed?", "button-left-pressed"],
+                ["b", "Right Button Pressed?", "button-right-pressed"],
+		["b", "A Button Pressed?", "button-a-pressed"],
+                ["b", "B Button Pressed?", "button-b-pressed"],
+                ["b", "X Button Pressed?", "button-x-pressed"],
+                ["b", "Y Button Pressed?", "button-y-pressed"] 
+	]
+}
